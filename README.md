@@ -27,3 +27,25 @@
 [Selector](<CSS/Selector.md>)
 
 [Specific and Constrained](<CSS/Specific and Constrained.md>)
+
+## JacaScript
+
+[Ajax](<JavaScript/Ajax/Ajax.md>)
+
+[Event Loop](<JavaScript/Event Loop/Event Loop.md>)
+
+[Comparison](<JavaScript/Comparison.md>)
+
+[Currying](<JavaScript/Currying.md>)
+
+[Delegation](<JavaScript/Delegation.md>)
+
+[Function](<JavaScript/Function.md>)
+
+[Hoisting](<JavaScript/Hoisting.md>)
+
+[Inheritance](<JavaScript/Inheritance.md>)
+
+[Keyword](<JavaScript/Keyword.md>)
+
+[Object](<JavaScript/Object.md>)
