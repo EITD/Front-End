@@ -28,7 +28,7 @@
 
 [Specific and Constrained](<CSS/Specific and Constrained.md>)
 
-## JacaScript
+## JavaScript
 
 [Ajax](<JavaScript/Ajax/Ajax.md>)
 
