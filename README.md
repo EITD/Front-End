@@ -81,3 +81,19 @@
 [Slot](<Vue/Slot.md>)
 
 [Syntax](<Vue/Syntax.md>)
+
+## React
+
+[Component](<React/Component/Component.md>)
+
+[Data persistence](<React/Data persistence.md>)
+
+[Hook](<React/Hook.md>)
+
+[JSX](<React/JSX.md>)
+
+[Lifecycle](<React/Lifecycle.md>)
+
+[Optimization](<React/Optimization.md>)
+
+[Refs](<React/Refs.md>)
