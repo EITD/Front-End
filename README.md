@@ -49,3 +49,11 @@
 [Keyword](<JavaScript/Keyword.md>)
 
 [Object](<JavaScript/Object.md>)
+
+## Browser
+
+[Render](<Browser/Render/Render.md>)
+
+[Optimization](<Browser/Optimization.md>)
+
+[Repaint Vs Reflow](<Browser/Repaint Vs Reflow.md>)
